@@ -35,7 +35,7 @@ function App() {
                 key={index}
                 className="flex justify-between items-center bg-slate-100 p-2 rounded-xl"
               >
-                <h2 className="text-2xl font-bold text-slate-500">{el}</h2>
+                <h2 className="text-2xl font-bold text-slate-900">{el}</h2>
               </div>
             );
           })}
